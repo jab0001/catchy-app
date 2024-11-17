@@ -1,0 +1,8 @@
+{
+    "privacy_manifest_version": 1,
+    "data_collected": [{
+        "type": "contact_info",
+        "purposes": ["app_functionality"],
+        "data": ["email_address"]
+    }]
+}
